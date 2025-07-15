@@ -14,5 +14,6 @@ public class way {
                 System.out.println(str.charAt(str.length() - 1));
             }
         }
+        sc.close();
     }
 }
